@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arjunbedi
-- 👀 I’m interested in web development and learning the applications of each software language
-- 🌱 I’m currently learning C#, SQL, Python, C/C++, and JavaScript
+- 👀 I’m interested in deep learning and natural language processing
+- 🌱 4+ YOE as a SWE now growing in AI/ML as a Masters Student @ Stevens
 - 💞️ I’m looking to collaborate on any open source projects
 - 📫 How to reach me by email! arjundbedi@gmail.com
 
